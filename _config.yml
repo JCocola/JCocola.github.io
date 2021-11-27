@@ -83,11 +83,11 @@ author:
   name             : "Jorio Cocola"
   avatar           : "foto_profilo.png"
   bio              : "PhD candidate at Northeastern University"
-  location         : "Boston, MA"
+  location         : "567 Lake Hall\ Northeastern University\ 360 Huntington Avenue\ Boston, MA 02115"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "cocola.j@northeastern.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
