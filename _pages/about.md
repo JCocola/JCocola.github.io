@@ -11,7 +11,7 @@ redirect_from:
 I am a final year PhD student in Mathematics at [Northeastern University](https://cos.northeastern.edu/mathematics/) 
 working under the direction of [Prof. Paul Hand](https://www.ccs.neu.edu/home/hand/index.html).
 
-My research is on the Mathematics of Data Science. I am particularly interested in questions at the interface of statistics, optimization and computational complexity.  As an applied mathematician, I aim at developing theory and principled algorithms for the application of machine learning methods in fields such as Inverse Problems and Computational Science. 
+My research is on the Mathematics of Data Science. I am particularly interested in questions at the interface of statistics, optimization and computational complexity.  As an applied mathematician, I aim at developing theory and principled algorithms for the application of machine learning methods in areas such as Inverse Problems and Computational Science. 
 
 In the Summer '21, I was extremely fortunate to  work on scalable machine learning methods for non-linear model reduction of dynamical systems with [John Tencer](https://jtencer.github.io/), [Eric Parish](https://ericparish.netlify.app/), [Francesco Rizzi](https://sites.google.com/site/rizziwebsite/) and [Patrick Blonigan](https://www.sandia.gov/-pblonig/) of the [Pressio Team](https://pressio.github.io/) at Sandia National Laboratories.
 
