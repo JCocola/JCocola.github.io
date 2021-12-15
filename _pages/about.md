@@ -20,5 +20,4 @@ Before Northeastern University, I was in the [Department of Computational and Ap
 
 ##### Answers to Frequently Asked Questions
 - My name is pronounced "Yoreo".
-- Italy looks like a boot, I come from [the heel](https://en.wikipedia.org/wiki/Salento). 
 - My [Erdos Number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is: 3.
